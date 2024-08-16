@@ -10,9 +10,9 @@ The Student List project is a React-based web application that allows users to v
 - Navigation: Navigate between the "Student List" and "Favorite Student" pages using React Router.
 
 ## Technologies Used
--- React.js: For building the user interface and handling the component lifecycle.
--- TailwindCSS: For styling the application with utility-first CSS classes.
--- React Router: For navigation between different pages within the app.
+- React.js: For building the user interface and handling the component lifecycle.
+- TailwindCSS: For styling the application with utility-first CSS classes.
+- React Router: For navigation between different pages within the app.
 
 ## How to View
 You can explore the Student-List by 
