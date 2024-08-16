@@ -1,4 +1,4 @@
-## Student List Project
+## Student List 
 
 ## Project Overview
 The Student List project is a React-based web application that allows users to view a list of students, add new students, and mark their favorite students. The project demonstrates the use of React components, state management, routing, and conditional rendering to create a dynamic and interactive user interface.
@@ -15,7 +15,7 @@ The Student List project is a React-based web application that allows users to v
 - React Router: For navigation between different pages within the app.
 
 ## How to View
-You can explore the Student-List by 
+You can explore the Student-List by visiting https://student-list-react-omega.vercel.app/
 
 ## Contributing
 If you'd like to contribute to the project, please fork the repository and use a feature branch. Pull requests are welcome.
